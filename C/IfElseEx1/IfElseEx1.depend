@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680824135 source:c:\users\dsm-1\documents\lucaslisan\alglogicprog\c\ifelseex1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

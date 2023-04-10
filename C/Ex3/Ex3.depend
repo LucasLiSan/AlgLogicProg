@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1680309073 source:c:\users\dsm-1\documents\lucaslisan\alglogicprog\c\ex3\main.c
+	<stdio.h>
+	<stdlib.h>
+

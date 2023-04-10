@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1679955820 source:c:\users\dsm-1\documents\lucaslisan\alglogicprog\c\ex02\main.c
+	<stdio.h>
+	<stdlib.h>
+
